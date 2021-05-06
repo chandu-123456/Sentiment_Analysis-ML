@@ -11,3 +11,6 @@ new_y_pred = new_model.predict(input.toarray())
 
 if st.button('Predict'):
   st.title([new_y_pred[0]])
+
+  
+ 
